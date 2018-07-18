@@ -4,3 +4,7 @@
 1. Open project(Jess/) in NetBeans.
 2. Import the two Jess JAR files from Jess71p2/lib.
 3. Run Project.
+
+---
+This project was made using Trial version of Jess7.1p2.
+To install jess use [this link](http://www.jessrules.com/jess/download.shtml).
