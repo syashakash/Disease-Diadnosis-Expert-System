@@ -2,7 +2,7 @@
 
 ## How to run
 1. Open project(Jess/) in NetBeans.
-2. Import the two Jess JAR files from Jess71p2/lib.
+2. Import the required jar files from downloaded zip from Jess repo.
 3. Run Project.
 
 ---
