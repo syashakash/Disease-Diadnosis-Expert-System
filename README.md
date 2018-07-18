@@ -1,6 +1,7 @@
 # Disease Diagnosis Expert System
 
-<img src="./screenshot1.png"/>
+![Screenshot](./screenshot1.png)
+
 ## How to run
 1. Open project(Jess/) in NetBeans.
 2. Import the required jar files from downloaded zip from Jess repo.
